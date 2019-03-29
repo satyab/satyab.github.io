@@ -1,1 +1,0 @@
-# satyab.github.io

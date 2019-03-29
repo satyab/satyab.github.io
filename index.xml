@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>White Light Addict</title>
+    <link>https://satyab.github.io/</link>
+    <description>Recent content on White Light Addict</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://satyab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
