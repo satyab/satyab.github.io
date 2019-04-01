@@ -29,13 +29,13 @@
   </url>
   
   <url>
-    <loc>https://satyab.github.io./categories/development/</loc>
+    <loc>https://satyab.github.io./tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://satyab.github.io./tags/development/</loc>
+    <loc>https://satyab.github.io./categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -47,25 +47,25 @@
   </url>
   
   <url>
-    <loc>https://satyab.github.io./categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://satyab.github.io./tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://satyab.github.io./categories/projects/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <loc>https://satyab.github.io./categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://satyab.github.io./tags/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://satyab.github.io./categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -95,13 +95,13 @@
   </url>
   
   <url>
-    <loc>https://satyab.github.io./categories/vitae/</loc>
+    <loc>https://satyab.github.io./tags/vitae/</loc>
     <lastmod>2018-07-28T01:52:59-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://satyab.github.io./tags/vitae/</loc>
+    <loc>https://satyab.github.io./categories/vitae/</loc>
     <lastmod>2018-07-28T01:52:59-05:00</lastmod>
     <priority>0</priority>
   </url>
